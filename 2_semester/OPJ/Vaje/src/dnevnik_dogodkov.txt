@@ -1,0 +1,9 @@
+[2026-05-12 01:08:15] ZAZNAMEK: Podatki uspešno serializirani in komprimirani.
+[2026-05-12 01:11:46] ZAZNAMEK: Podatki uspešno obnovljeni iz datoteke.
+[2026-05-12 01:11:58] ZAZNAMEK: Podatki uspešno serializirani in komprimirani.
+[2026-05-12 01:12:11] ZAZNAMEK: Podatki uspešno obnovljeni iz datoteke.
+[2026-05-12 01:12:16] ZAZNAMEK: Podatki uspešno serializirani in komprimirani.
+[2026-05-12 10:29:35] ZAZNAMEK: Podatki uspešno obnovljeni iz datoteke.
+[2026-05-12 10:33:41] ZAZNAMEK: Podatki uspešno serializirani in komprimirani.
+[2026-05-12 10:33:54] ZAZNAMEK: Podatki uspešno obnovljeni iz datoteke.
+[2026-05-12 10:53:20] ZAZNAMEK: Podatki uspešno serializirani in komprimirani.
