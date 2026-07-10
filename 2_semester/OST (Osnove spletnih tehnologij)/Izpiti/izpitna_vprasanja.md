@@ -6,7 +6,6 @@
     c. a+b <br>
     d. nič od tega
 
-
 2. Element \<sheet> sodi v: <br>
     a. HTML <br>
     b. CSS <br>
