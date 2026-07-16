@@ -1,7 +1,5 @@
-# OST — Osnove spletnih tehnologij
-### Podrobni zapiski za izpit (predavatelj: dr. Matej Šprogar)
-
-> Zapiski so narejeni po tvojih dejanskih predavanjih (1–9) + banka izpitnih vprašanj. Vsaka tema ima: intuitivno razlago, ključne pojme, kodo iz predavanj in vprašanja/odgovore za ustni izpit.
+# OST - Osnove spletnih tehnologij
+### Podrobni zapiski za izpit
 
 ---
 
